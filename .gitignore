@@ -1,0 +1,8 @@
+# Ignore build - it's build automatically
+build/
+
+# Dependency directories
+node_modules/
+
+# DS Store
+.DS_Store
